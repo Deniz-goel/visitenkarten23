@@ -1,14 +1,13 @@
 # visitenkarten23
-Webtech Project
+# Webtech 23' Project
+# the project
 
-the project
+# Funktionen der Webanwendungen
 
-Funktionen der Webanwendungen
-
-Das erstellen von individuellen Visitenkarten
-Erstellen der Visitenkarten (Nan, Tel., Anschrift, E-Mail Adresse, Firmenname)
-Verändern der Visitenkarten Farbe, Schriftart
-Löschen der Karten
-Suchfunktion einbauen
-Zurücksetzen Button leert die Felder aus
-Auswahl von Vorlagen
+# Das erstellen von individuellen Visitenkarten
+# Erstellen der Visitenkarten (Nan, Tel., Anschrift, E-Mail Adresse, Firmenname)
+# Verändern der Visitenkarten Farbe, Schriftart
+# Löschen der Karten
+# Suchfunktion einbauen
+# Zurücksetzen Button leert die Felder aus
+# Auswahl von Vorlagen
